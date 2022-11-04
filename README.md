@@ -15,7 +15,7 @@ The value of trayCentralize can immediately be appreciated by opening windows li
 
 Also, windows like Device Manager, which Windows insists on placing way over to the left, even on a 34" monitor!
 
-Feedback, comments and suggestions and always welcome.
+Feedback on this app and suggestions for further such system tray utility apps are welcome.
 
 ### Keyboard Controls
 ---------------------
