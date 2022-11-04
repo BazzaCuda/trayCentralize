@@ -3,7 +3,7 @@ trayCentralize - part of the trayBon!™ collection - Copyright (C) 2022 Baz Cud
 
 trayCentralize is a small app that sits in your system tray.
 
-Each new window that opens will be moved so that it sits in the middle of the main screen, horizontally and vertically.
+Each new window that opens will be moved so that it is centralized in the middle of the main screen, horizontally and vertically.
 
 It will do this only once for each new window, so that if you decide to move the window, it will stay put.
 
