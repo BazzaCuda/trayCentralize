@@ -82,6 +82,9 @@ modules/
 *.identcache
 *.tvsconfig
 
+# release folders
+*v1*
+
 # release folder contents
 *.zip
 *.exe
