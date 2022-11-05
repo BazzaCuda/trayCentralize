@@ -23,3 +23,9 @@ Feedback on this app and suggestions for further such system tray utility apps a
 press Ctrl-Shift-F1 in any window that you want trayCentralize to ignore.
 
 This setting will be applied automatically the next time trayCentralize is run.
+
+Updates
+=======
+
+v1.1 New menu option added, "Reload INI File": This allows the INI file to be edited while the app is running, to remove a previously-banned window class.
+                                               This saves the user from having to close the app, make the changes and then relaunch the app.
