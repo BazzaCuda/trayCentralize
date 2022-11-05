@@ -9,7 +9,8 @@ It will do this only once for each new window, so that if you decide to move the
 
 If you want trayCentralize to always ignore a particular type of window (e.g. every time Notepad opens), press Ctrl-Shift-F1 in that window and trayCentralize will ignore it forevermore.
 
-(Currently, if you wish to reverse that ban, simply edit the .ini file that trayCentralize creates, and remove the appropriate line.)
+(Currently, if you wish to reverse that ban, simply edit the .ini file that trayCentralize creates, and remove the appropriate line.
+This needs to be done without the app running, or your change will be overwritten when the app closes. This will be fixed in the next version.)
 
 The value of trayCentralize can immediately be appreciated by opening windows like the Win-R Run dialog, especially if you have an ultra-wide monitor.
 
