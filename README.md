@@ -30,3 +30,4 @@ Updates
 
 v1.1 New menu option added, "Reload INI File": This allows the INI file to be edited while the app is running, to remove a previously-banned window class.
                                                This saves the user from having to close the app, make the changes and then relaunch the app.
+v1.2 Fixed a minor issue where the app could start centralizing windows before the list of exceptions had been read from the INI file. DOH!
